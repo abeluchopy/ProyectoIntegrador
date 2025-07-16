@@ -17,5 +17,6 @@ public class LineaPedidoDTO {
     public int getCantidad() { return cantidad; }
 
     public void setProductoId(Long productoId) { this.productoId = productoId; }
+
     public void setCantidad(int cantidad) { this.cantidad = cantidad; }
 }
